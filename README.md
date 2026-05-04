@@ -1,0 +1,1 @@
+# avax-wallet-docs
